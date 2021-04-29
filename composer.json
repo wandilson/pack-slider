@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MyVendor\\formulario-contato\\": "src/"
+            "wandilson\\pack-slider\\": "src/"
         }
     }
 }
