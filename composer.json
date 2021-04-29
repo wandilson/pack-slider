@@ -9,8 +9,8 @@
         }
     ],
     "autoload": {
-        "files": [
-            ""
-        ]
+        "psr-4": {
+            "MyVendor\\formulario-contato\\": "src/"
+        }
     }
 }
