@@ -1,5 +1,5 @@
 {
-    "name": "wandilson/slider",
+    "name": "wandilson/pack-slider",
     "description": "Pacote de slider para agilizar a criação de sites",
     "license": "MIT",
     "authors": [
@@ -8,5 +8,9 @@
             "email": "wandilson.oliver@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "files": [
+            ""
+        ]
+    }
 }
