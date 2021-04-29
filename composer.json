@@ -1,0 +1,12 @@
+{
+    "name": "wandilson/slider",
+    "description": "Pacote de slider para agilizar a criação de sites",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wandilson Oliveira",
+            "email": "wandilson.oliver@gmail.com"
+        }
+    ],
+    "require": {}
+}
