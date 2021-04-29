@@ -8,9 +8,7 @@
             "email": "wandilson.oliver@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "wandilson\\pack-slider\\": ["src/"]
-        }
+    "config": {
+        "vendor-dir": "plugins"
     }
 }
