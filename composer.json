@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "wandilson\\pack-slider\\": "src/"
+            "wandilson\\pack-slider\\": ["src/"]
         }
     }
 }
